@@ -9,7 +9,6 @@ public class ObstacleSpawner : MonoBehaviour
     public int instanceIndex = 0;
 
     public GameObject obstaclePrefab;
-    public GameObject obstaclePrefab2;
     public float timeToSpawn;
     // Start is called before the first frame update
     void Start()
